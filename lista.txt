@@ -1,6 +1,8 @@
 zimne
 ciemne
 super
-darmowe
+owocowe
+niedobre
+drogie
 chmielowe
 pszeniczne
